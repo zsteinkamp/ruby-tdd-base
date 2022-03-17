@@ -1,4 +1,4 @@
-require './script.rb'
+require './lib/script.rb'
 
 describe Script do
   it 'runs a method' do
